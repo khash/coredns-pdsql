@@ -2,7 +2,7 @@
 package pdsql
 
 import (
-	"github.com/wenerme/coredns-pdsql/pdnsmodel"
+	"github.com/khash/coredns-pdsql/pdnsmodel"
 	"net"
 	"strconv"
 	"strings"
